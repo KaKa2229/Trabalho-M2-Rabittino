@@ -72,14 +72,14 @@ nav ul li a:hover::before{
 }
 
 nav ul li a:active{    
-    color: blue;
+    color: black;
 }
 
 #arduinoPlaca{
     transform: rotate(39deg);
     position: fixed;
     z-index: -1;
-    margin: 7.5% 0 0 4%;
+    margin: 7% 0 0 14%;
 }
 
 header{
